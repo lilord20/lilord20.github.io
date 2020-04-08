@@ -1,0 +1,48 @@
+.Abril{
+  font-family: 'Abril Fatface', cursive;
+}
+.Josefin{
+  font-family: 'Josefin Sans', sans-serif;
+}
+ul{
+  font-family: 'Merriweather', serif;
+}
+#q{
+  background: #3d3a3a;
+  color: white;
+
+}
+.px{
+  font-size: 15px;
+  width: 400px;
+}
+div{
+  align-content: center;
+}
+blockquote::before{
+  content: '„';
+  display: ;
+}
+.p{
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center; 
+
+}
+#p{
+  position: relative;
+  text-align: center;
+  height: 200px
+}
+.h{
+  position: relative;
+  display: inline-block;
+  bottom: 15px;
+  right: 500px;
+}
+main{
+  margin: 20px;
+}
+#q{
+  width: 240px;
+}
